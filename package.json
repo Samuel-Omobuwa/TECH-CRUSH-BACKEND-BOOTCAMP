@@ -1,0 +1,17 @@
+{
+  "name": "samuel_calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "start": "node index.js",
+  "keywords": [],
+  "author": "Samuel",
+  "license": "ISC",
+  "description": "A simple calculator to perform simple mathematic arithmetics",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
